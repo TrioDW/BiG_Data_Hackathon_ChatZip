@@ -1,32 +1,26 @@
 # Chat.Zip
+2023 Big Data Hackathon - Pathfinder 파트너상 수상
 
 # 1. 팀 소개
 
----
+
 
 ### 팀명 : chat.zip
 
 ### **빅데이터 및 AI 활용 트랙**
 
-파트너사 : Pathfinder, AWS, 네이버클라우드
-
 ### 파트너사 : Pathfinder, AWS, 네이버 클라우드
 
-[팀 명단](Chat%20Zip%202c46c8213e684f80b3d446d884545b32/%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A1%E1%86%AB%201a9ba42e91394e91877cd6b70c78766d.csv)
 
 # 2. 서비스 개요
 
----
+
 
 > **서비스명**
-> 
-
-> **한줄 소개**
-> 
-
 ChatZip
 
-**바쁜 현대인들을 위한 채팅 요약 서비스**
+> **한줄 소개**
+바쁜 현대인들을 위한 채팅 요약 서비스
 
 > **개발 동기**
 > 
@@ -37,7 +31,7 @@ ChatZip
 
 # 3. 세부 내용
 
----
+
 
 - 정보 제공을 목적으로 하는 채팅방(ex. 주식, 코인)에서 나누는 많은 대화 뿐만 아니라 쌓여있던 일상의 많은 알림 하나하나를 압축하여 한 눈에 보기 쉽게 요약해 주는 서비스로, 접근성을 위해 앱으로 개발한다.
 - 또한, 고성능의 요약 기능을 제공하고 보다 많은 명령을 처리하고자 LLM와 연동되는 백엔드 서버를 두고 보안 및 개인정보 보호에 중점을 두어 개발한다.
@@ -150,7 +144,7 @@ ChatZip
 
 # 4. 기대 효과
 
----
+
 
 - 많은 대화 내용을 카톡방에 들어가 일일이 확인하지 않아도 되므로, 많은 시간을 절약하고 편의 제공 가능
 - 채팅방의 대화 내용을 읽음 표시하지 않고 요약본을 볼 수 있으므로, 손쉽게 대화내용을 파악 가능함
@@ -162,16 +156,12 @@ ChatZip
 
 # 5. 동작 영상
 
----
+
 
 [chatzip_시연영상.mp4](Chat%20Zip%202c46c8213e684f80b3d446d884545b32/chatzip_%25EC%258B%259C%25EC%2597%25B0%25EC%2598%2581%25EC%2583%2581.mp4)
 
 # 6. 발표 자료
 
----
+
 
 [DX해카톤_ChatZip발표자료.pdf](Chat%20Zip%202c46c8213e684f80b3d446d884545b32/DX%25ED%2595%25B4%25EC%25B9%25B4%25ED%2586%25A4_ChatZip%25EB%25B0%259C%25ED%2591%259C%25EC%259E%2590%25EB%25A3%258C.pdf)
-
-![Untitled](https://media2.giphy.com/media/26AHC0kdj8IeLkmBy/giphy.gif?cid=7941fdc6o01e5vrf166fb5ayjd4tthktr7dbvyoa9xw8mvux&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-![Untitled](https://media4.giphy.com/media/l396M3jF14DXr9mog/giphy.gif?cid=7941fdc64wctks08w1pk2h6xca0lmunshicziuqh026385l9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
